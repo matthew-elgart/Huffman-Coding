@@ -1,6 +1,4 @@
-Name: Matt Elgart
-NetID: mje21
-Hours Spent: 10
-Consulted with: Matthew Faw
-Resources Used: stackoverflow
-Impressions: coolest assignment. Felt pretty awesome when it worked
+Huffman Coding Assignment
+
+Takes an input file (text, picture, etc.) and compresses it with a Huffman encoding algorithm (from Huff.java).
+The file can then be decompressed, and the decompressed file can be compared to the original in the Diff.java file.
